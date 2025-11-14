@@ -6,4 +6,5 @@ if a==b:
 else:
     print("los numeros son diferentes")
 
-    #lo hizo jose estanga
+
+    #lo hizo valeria escorche
