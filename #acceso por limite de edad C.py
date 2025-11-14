@@ -6,5 +6,3 @@ if edad >= limite:
     print("acceso permitido")
 else:
     print("acceso denegado")
-
-    #lo hizo estefano buccini
