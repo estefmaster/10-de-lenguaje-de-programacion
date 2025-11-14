@@ -9,4 +9,5 @@ if es_vip and (es_nuevo or edad < 18):
 else:
     print("promocion estandar")
 
-    #lo hizo jose estanga
+
+    #lo hizo valeria escorche
